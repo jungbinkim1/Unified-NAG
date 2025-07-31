@@ -6,7 +6,7 @@ This repository includes codes to generate the figures presented in the paper "U
 
 ### icml_coefficient_Xdot_simpler.py
 Figure 1: Figure 1. Plots for the coefficient of the velocity term.
-![](./results/coefficient_of_Xdot_simple1-1.png)
+![](./results/coefficient_of_Xdot_simple1-1.png|width=100)
 
 ### logistic_regression.py
 Figure 2: Results for the ℓ2-regularized logistic regression problem.
